@@ -1,6 +1,5 @@
-![ofa](images/orbit.jpg)
-![aws re/start](images/aws-restart.jpg)
 <img src="images/orbit.jpg" alt="ofa" width="300" height="100">
+<img src="images/aws-restart.jpg" alt="aws-re/start" width="500" height="140">
 
 # AWS re/Start Batch 5 [ Maret - Juni 2023 ]
 
