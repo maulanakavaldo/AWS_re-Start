@@ -1,17 +1,16 @@
 <!-- Header -->
   <div style="float: left;">
-      <img src="images/orbit.jpg" alt="ofa" width="200" height="70">
+      <img src="images/orbit.jpg" alt="ofa" width="300" height="100">
   </div>
 
   <div style="float: right;">
-      <img src="images/aws-restart.jpg" alt="aws-re/start" width="200" height="70">
+      <img src="images/aws-restart.jpg" alt="aws-re/start" width="300" height="100">
   </div>
 
 <!-- End Header -->
 
 <!-- Main -->
-  <div style="clear: both;">
-  
+  <div style="clear: both;">  
   <div style="text-align: center; font-weight: bold;">
     <h1>AWS re/Start Batch 5 [ Maret - Juni 2023 ]</h1>
   </div>
