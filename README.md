@@ -1,13 +1,16 @@
+![teks alternatif](url_gambar)
+
 # AWS_re-Start
 AWS re/Start Batch 5 [ Maret - Juni 2023 ]
 
 ## What we learn?
-- Cloud Foundations
-- Linux
-- Networking
-- Security
+- [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+- [Cloud Foundations](https://aws.amazon.com/solutions/cloud-foundations/)
+- Linux - [Linux](https://aws.amazon.com/mp/linux/) [Linux2](https://aws.amazon.com/amazon-linux-2/)
+- [Networking](https://aws.amazon.com/products/networking/)
+- Security(https://aws.amazon.com/security/)
 - Python Programming
-- Databases
+- [Databases](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/database.html)
 - Jumpstart on AWS
 - Jumpstart on AWS Advanced
 
