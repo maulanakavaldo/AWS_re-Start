@@ -1,10 +1,10 @@
 <!-- Header -->
   <div style="float: left;">
-      <img src="images/orbit.jpg" alt="ofa" width="300" height="100">
+      <img src="images/orbit.jpg" alt="ofa" width="200" height="70">
   </div>
 
   <div style="float: right;">
-      <img src="images/aws-restart.jpg" alt="aws-re/start" width="300" height="100">
+      <img src="images/aws-restart.jpg" alt="aws-re/start" width="200" height="70">
   </div>
 
 <!-- End Header -->
