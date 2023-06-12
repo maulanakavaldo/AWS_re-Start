@@ -1,8 +1,7 @@
 ![ofa](images/orbit.jpg)
 ![aws re/start](images/aws-restart.jpg)
 
-# AWS_re-Start
-AWS re/Start Batch 5 [ Maret - Juni 2023 ]
+# AWS re/Start Batch 5 [ Maret - Juni 2023 ]
 
 ## What we learn?
 - [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
