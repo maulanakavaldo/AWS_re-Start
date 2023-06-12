@@ -9,7 +9,7 @@
 - Linux - [Linux](https://aws.amazon.com/mp/linux/) | [Linux2](https://aws.amazon.com/amazon-linux-2/)
 - [Networking](https://aws.amazon.com/products/networking/)
 - [Security](https://aws.amazon.com/security/)
-- Python Programming
+- [Python Programming](https://aws.amazon.com/what-is/python/)
 - [Databases](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/database.html)
 - Jumpstart on AWS
 - Jumpstart on AWS Advanced
