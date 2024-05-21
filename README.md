@@ -12,7 +12,7 @@
 <!-- Main -->
   <div style="clear: both;">  
   <div style="text-align: center; font-weight: bold;">
-    <h1>AWS re/Start Batch 5 [ Maret - Juni 2023 ]</h1>
+    <h1>AWS re/Start Batch 5 [ 27 Maret - 23 Juni 2023 ]</h1>
   </div>
 
   ## What we learn?
